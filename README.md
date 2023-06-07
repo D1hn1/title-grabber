@@ -1,7 +1,6 @@
 ```html
 <title>Title grabber</title>
 ```
-===================================
 
 # Ussage
 - Scan internet with masscan and export results with -o.
