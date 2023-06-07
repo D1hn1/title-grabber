@@ -1,1 +1,10 @@
-# title-grabber
+```html
+<title>Title grabber</title>
+```
+===================================
+
+# Ussage
+- Scan internet with masscan and export results with -o.
+- Chmod +x the file.
+- And execute it :)
+	* Results will be saved to index.html in a table form.
